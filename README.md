@@ -18,3 +18,13 @@ It highlights my technical skills, projects, and how to reach me.
 *(Update the above based on what your project actually uses.)*
 
 ---
+## 🧩 Features
+
+✅ Clean, modern and responsive design  
+✅ Showcases projects with links & screenshots  
+✅ About section with a bio  
+✅ Contact info or form  
+✅ Hosted online (add live link once deployed)
+
+---
+

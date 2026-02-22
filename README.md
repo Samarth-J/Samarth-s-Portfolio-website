@@ -24,7 +24,7 @@ It highlights my technical skills, projects, and how to reach me.
 ✅ Showcases projects with links & screenshots  
 ✅ About section with a bio  
 ✅ Contact info or form  
-✅ Hosted online (add live link once deployed)
+✅ Hosted online (https://samarthmj.netlify.app/)
 
 ---
 
